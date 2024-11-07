@@ -1,0 +1,6 @@
+train: C:\Users\dines\OneDrive\Desktop\yolov8\one last try\train
+val: C:\Users\dines\OneDrive\Desktop\yolov8\one last try\val
+
+nc: 17
+
+names: ["book","goggels","cup","titli","watch","pot","bottel","box","person","chair","table","charger","mobile phpne","glass","laptop","pen","switch board"]
